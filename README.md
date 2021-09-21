@@ -1,6 +1,6 @@
-- 👋 Oiiii, sou o @krugerrgabriel
+- 👋 Oiii, sou o @krugerrgabriel
 - 👀 Estou interessado em NextJS & Gatsby (com ReactJS)
-- 🌱 Estou no momento estudando Gatsby e me aprofundando cada vez mais em NextJS
+- 🌱 No momento estou estudando NextJS e integrações com o MongoDB
 - 📫 [Facebook](https://www.facebook.com/gabriel.s.kruger/) & [LinkedIn](https://www.linkedin.com/in/gabriel-sabara-krüger-a4871518b/) & [E-mail](mailto:gabriel.sa.kruger@gmail.com)
 
 <!---
