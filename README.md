@@ -15,6 +15,3 @@ Full-stack developer and UI/UX designer from Brazil. I've been coding since I wa
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-
-<!-- Opcional: card de stats do GitHub. Apague estas duas linhas se preferir o perfil mais limpo. -->
-![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=krugerrgabriel&show_icons=true&hide_border=true&count_private=true)
