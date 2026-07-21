@@ -1,6 +1,6 @@
 ## Hi, I'm Gabriel 👋
 
-Full-stack developer and UI/UX designer from Brazil. I've been coding since I was 12 and doing it professionally since 2018. Right now I'm CTO at **Santé**, a healthcare SaaS used by around 1,700 clinics, where I still write code every day.
+Full-stack developer and UI/UX designer from Brazil. I've been coding since I was 12 and doing it professionally since 2018. Right now I'm CTO at [Santé Sistemas](https://santesistemas.io/), a healthcare SaaS used by around 1,700 clinics, where I still write code every day.
 
 **Currently working with:** Ruby on Rails · React · TypeScript · Node.js · PostgreSQL · Figma
 
